@@ -1,11 +1,14 @@
 {
   "name": "es2015-macros",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "ES2015 macros for the new sweet.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "sweet.js": "^1.0.0-alpha.11"
+  }
 }
